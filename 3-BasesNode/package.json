@@ -1,0 +1,15 @@
+{
+  "name": "3-basesnode",
+  "version": "1.0.0",
+  "description": "Es una simple tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base7": "node app --j=7"
+  },
+  "author": "Yo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
